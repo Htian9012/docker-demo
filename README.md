@@ -76,8 +76,7 @@ docker pull [选项] [Docker Registry 地址[:端口号]/]仓库名[:标签]
 * Docker Swarm 
 
 ## 五、底层实现
-* Docker 底层的核心技术包括 Linux 上的命名空间（Namespaces）、控制组（Control
-groups）、Union 文件系统（Union file systems）和容器格式（Container format）。
+* Docker 底层的核心技术包括 Linux 上的命名空间（Namespaces）、控制组（Control groups）、Union 文件系统（Union file systems）和容器格式（Container format）。
 
 ## 六、CI/CD 持续集成/部署（GitHub  +  Drone ）
 * 持续集成(Continuous integration)是一种软件开发实践，每次集成都通过自动化的构建（包括
