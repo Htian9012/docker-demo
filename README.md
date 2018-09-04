@@ -1,5 +1,4 @@
-# docker-demo
-记录对demo的一些常用指令
+# docker-demo 记录对demo的一些常用指令
 ## 一、安装篇
 * 前提条件
   * Docker 运行在 CentOS 7 上，要求系统为64位、系统内核版本为 3.10 以上。
