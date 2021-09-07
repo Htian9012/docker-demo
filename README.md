@@ -4,7 +4,7 @@
   * Docker 运行在 CentOS 7 上，要求系统为64位、系统内核版本为 3.10 以上。
   * Docker 运行在 CentOS-6.5 或更高的版本的 CentOS 上，要求系统为64位、系统内核版本为 2.6.32-431 或者更高版本。
 
-* 查看centOS版本
+* 查看centOS版本(别人修改的):
    * uname -r
 
 * 安装 Docker
