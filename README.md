@@ -7,7 +7,7 @@
 * 查看centOS版本(别人修改的):
    * uname -r
 
-* 安装 Docker
+* 安装 Docker(别人修改的2):
   * yum -y install docker-io
 
 * 查看docker指令帮助
