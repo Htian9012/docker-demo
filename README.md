@@ -10,7 +10,7 @@
 * 安装 Docker(别人修改的2):
   * yum -y install docker-io
 
-* 查看docker指令帮助
+* 查看docker指令帮助(别人修改的3):
   * docker help
 
 * 查看docker版本
